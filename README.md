@@ -1,1 +1,2 @@
-# beach_animation
+# Beach animation
+## Procedural animation using processing
